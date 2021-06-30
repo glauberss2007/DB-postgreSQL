@@ -47,9 +47,10 @@ Confirm instalation using "SQL Shell" and command
 - [CTE (Common Table Expressions)](https://www.postgresqltutorial.com/postgresql-cte/)
 
 ## Advanced Structured Query Language (SQL) Commands
-- How views help access the database
-- Get to know one of the main database concepts: transactions
-- Learn about the functions that can be created by the developer
+- [How views help access the database](https://www.postgresql.org/docs/9.2/sql-createview.html)
+- [Get to know one of the main database concepts: transactions](https://www.postgresql.org/docs/8.3/tutorial-transactions.html)
+- [Functions that can be created by the developer inside postgree](https://www.postgresql.org/docs/9.1/sql-createfunction.html)
+- [Using procedural languages inside postgress](https://www.postgresql.org/docs/13/external-pl.html)
 
 ## References
 [Kartones](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
