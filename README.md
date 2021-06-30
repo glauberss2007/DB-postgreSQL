@@ -31,3 +31,8 @@ Confirm instalation using "SQL Shell" and command
 - How views help access the database
 - Get to know one of the main database concepts: transactions
 - Learn about the functions that can be created by the developer
+
+## References
+[Kartones](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
+[DIO](https://web.digitalinnovation.one/course/conceitos-e-melhores-praticas-com-bancos-de-dados-postgresql)
+[Documentations](https://www.postgresql.org/docs/)
