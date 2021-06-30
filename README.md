@@ -6,10 +6,10 @@ PostgreSQL also known as Postgres, is a free and open-source relational database
 PostgreSQL features transactions with Atomicity, Consistency, Isolation, Durability (ACID) properties, automatically updatable views, materialized views, triggers, foreign keys, and stored procedures.It is designed to handle a range of workloads, from single machines to data warehouses or Web services with many concurrent users. It is the default database for macOS Server and is also available for Windows, Linux, FreeBSD, and OpenBSD.
 
 ## Introduction to PostgreSQL Database
--[Database Basics](https://www.postgresqltutorial.com/what-is-postgresql/)
--[Installing PostgreSQL on Linux](https://www.postgresqltutorial.com/install-postgresql-linux/)
--[Installing PostgreSQL on MAC](https://www.postgresqltutorial.com/install-postgresql-macos/)
--[Installing PostgreSQL on Windows](https://www.postgresqltutorial.com/install-postgresql/)
+- [Database Basics](https://www.postgresqltutorial.com/what-is-postgresql/)
+- [Installing PostgreSQL on Linux](https://www.postgresqltutorial.com/install-postgresql-linux/)
+- [Installing PostgreSQL on MAC](https://www.postgresqltutorial.com/install-postgresql-macos/)
+- [Installing PostgreSQL on Windows](https://www.postgresqltutorial.com/install-postgresql/)
 
 ## PostgreSQL Objects and Datatypes
 -What is the postgresql.conf file
