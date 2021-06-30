@@ -11,6 +11,10 @@ PostgreSQL features transactions with Atomicity, Consistency, Isolation, Durabil
 - [Installing PostgreSQL on MAC](https://www.postgresqltutorial.com/install-postgresql-macos/)
 - [Installing PostgreSQL on Windows](https://www.postgresqltutorial.com/install-postgresql/)
 
+Confirm instalation using "SQL Shell" and command 
+
+    SELECT version();
+
 ## PostgreSQL Objects and Datatypes
 -What is the postgresql.conf file
 -Get to know the PGAdmin tool
