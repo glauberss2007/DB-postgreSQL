@@ -19,7 +19,7 @@ Confirm instalation using "SQL Shell" and command
 - [What is the postgresql.conf file](https://www.postgresql.org/docs/9.3/config-setting.html)
 - [Get to know the PGAdmin tool](https://www.pgadmin.org/docs/pgadmin4/development/index.html)  
 - [How to administer users in the database](https://www.davidpashley.com/articles/postgresql-user-administration/)
-- [Database Objects and Commands]()
+- [Database Objects and Commands](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
 
 ## Fundamentals of Structured Query Language (SQL)
 - Meet DML and Truncate
