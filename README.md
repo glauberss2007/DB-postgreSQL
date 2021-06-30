@@ -1,3 +1,3 @@
-# postgresql-training
+# GFT-postgresql
 
-Honors to Daniel Costa 
+
