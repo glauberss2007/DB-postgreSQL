@@ -53,6 +53,6 @@ Confirm instalation using "SQL Shell" and command
 - [Using procedural languages inside postgress](https://www.postgresql.org/docs/13/external-pl.html)
 
 ## References
-[Kartones](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
-[DIO](https://web.digitalinnovation.one/course/conceitos-e-melhores-praticas-com-bancos-de-dados-postgresql)
-[Documentations](https://www.postgresql.org/docs/)
+- [Kartones](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
+- [DIO](https://web.digitalinnovation.one/course/conceitos-e-melhores-praticas-com-bancos-de-dados-postgresql)
+- [Documentations](https://www.postgresql.org/docs/)
