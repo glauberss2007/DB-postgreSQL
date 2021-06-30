@@ -22,10 +22,29 @@ Confirm instalation using "SQL Shell" and command
 - [Database Objects and Commands](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
 
 ## Fundamentals of Structured Query Language (SQL)
-- Meet DML and Truncate
-- Aggregate Functions in PostgreSQL
-- Working with JOINs
-- Optimizing code with CTE
+- DDL - Data Definition Language - Data Definition Language.
+        These are the commands that interact with database objects.
+        These are DDL commands: CREATE, ALTER and DROP
+
+- DML - Data Manipulation Language - Data Manipulation Language.
+        These are the commands that interact with data within tables.
+        These are DML commands: INSERT, DELETE and UPDATE
+
+- DQL - Data Query Language - Data Query Language.
+        These are the query commands.
+        These are DQL commands: SELECT (it is the query command)
+
+- DTL - Data Transaction Language - Data Transaction Language.
+        These are the commands for transaction control.
+        These are DTL commands: BEGIN TRANSACTION, COMMIT AND ROLLBACK
+
+- DCL - Data Control Language - Data Control Language.
+        These are the commands to control the security part of the database.
+        These are DCL commands: GRANT, REVOKE and DENY.
+
+- [Aggregate Functions in PostgreSQL](https://www.postgresql.org/docs/9.5/functions-aggregate.html)
+- [Working with JOINs](https://www.postgresqltutorial.com/postgresql-joins/)
+- [CTE (Common Table Expressions)](https://www.postgresqltutorial.com/postgresql-cte/)
 
 ## Advanced Structured Query Language (SQL) Commands
 - How views help access the database
