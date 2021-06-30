@@ -16,18 +16,18 @@ Confirm instalation using "SQL Shell" and command
     SELECT version();
 
 ## PostgreSQL Objects and Datatypes
--What is the postgresql.conf file
--Get to know the PGAdmin tool
--How to administer users in the database
--Database Objects and Commands
+- What is the postgresql.conf file
+- Get to know the PGAdmin tool
+- How to administer users in the database
+- Database Objects and Commands
 
 ## Fundamentals of Structured Query Language (SQL)
--Meet DML and Truncate
--Aggregate Functions in PostgreSQL
--Working with JOINs
--Optimizing code with CTE
+- Meet DML and Truncate
+- Aggregate Functions in PostgreSQL
+- Working with JOINs
+- Optimizing code with CTE
 
 ## Advanced Structured Query Language (SQL) Commands
--How views help access the database
--Get to know one of the main database concepts: transactions
--Learn about the functions that can be created by the developer
+- How views help access the database
+- Get to know one of the main database concepts: transactions
+- Learn about the functions that can be created by the developer
